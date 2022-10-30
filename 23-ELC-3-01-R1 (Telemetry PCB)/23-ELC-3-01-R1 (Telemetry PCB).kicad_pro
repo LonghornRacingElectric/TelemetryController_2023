@@ -340,7 +340,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "22-ELC-3-01-R1 (Telemetry PCB).kicad_pro",
+    "filename": "23-ELC-3-01-R1 (Telemetry PCB).kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -423,8 +423,8 @@
       ""
     ],
     [
-      "00000000-0000-0000-0000-00005d81d129",
-      "DI2C Buffer and termination"
+      "035b4cd7-4a04-4270-8677-cd796a8e1e1c",
+      "CAN1"
     ],
     [
       "00000000-0000-0000-0000-00005d849e57",
@@ -436,7 +436,7 @@
     ],
     [
       "dfa66097-0fe2-4c52-ac11-6ecb631d00e8",
-      "CAN"
+      "CAN0"
     ]
   ],
   "text_variables": {}
