@@ -64,11 +64,11 @@
       35,
       36
     ],
-    "visible_layers": "000feff_80000001",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "22-ELC-3-01-R1 (Telemetry PCB).kicad_prl",
+    "filename": "23-ELC-3-01-R1 (Telemetry PCB).kicad_prl",
     "version": 3
   },
   "project": {
